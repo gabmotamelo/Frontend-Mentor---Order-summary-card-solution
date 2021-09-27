@@ -7,6 +7,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
   
 - [My process](#my-process)
   - [Built with](#built-with)  
@@ -26,6 +27,10 @@ Users should be able to:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88755473/134832156-d1ad0410-77d5-4749-ad9b-89613ef17e0f.png">
 </p>
+
+### Links
+
+
 
 ## My process
 
