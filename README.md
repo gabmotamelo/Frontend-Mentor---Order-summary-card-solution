@@ -44,5 +44,5 @@ Users should be able to:
 
 - Frontend Mentor - [@gabmotamelo](https://www.frontendmentor.io/profile/gabmotamelo)
 - Twitter - [@gab_motaa](https://twitter.com/gab_motaa)
-
+.
 
