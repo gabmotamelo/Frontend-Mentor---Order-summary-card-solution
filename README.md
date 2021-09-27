@@ -23,6 +23,9 @@ Users should be able to:
 ### Screenshot
 
 ![index](https://user-images.githubusercontent.com/88755473/134826296-ca6b6398-8d9f-4db2-b647-bcc1d04faf0b.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88755473/134832156-d1ad0410-77d5-4749-ad9b-89613ef17e0f.png">
+</p>
 
 ## My process
 
